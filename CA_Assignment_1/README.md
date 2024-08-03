@@ -5,3 +5,10 @@ Sorted Array using Quick sort
 Profiling Output using gprof
 
 ![38ba7d84-7f71-4b8d-b221-3607b2e969ae (1)](https://github.com/user-attachments/assets/1049129c-10cc-418f-9e5c-791843b561ed)
+
+Visual of Profiling
+Commands Used: 1) gprof2dot -f prof analysis.txt > call_graph.dot 
+               2) dot -Tpng -o call_graph.png call_graph.dot
+               
+![analysis](https://github.com/user-attachments/assets/8fcf253c-dd9d-48b7-be83-600646830cab)
+
