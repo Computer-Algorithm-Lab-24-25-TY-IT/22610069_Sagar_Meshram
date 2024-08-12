@@ -1,6 +1,6 @@
 Matrix Chain Multiplication
 
-![output](https://github.com/user-attachments/assets/060611b0-40b3-4df8-ac03-6c81b1d0f120)
+![output](https://github.com/user-attachments/assets/3899b922-bd9c-4d36-a529-b60b76a12054)
 
 
 
