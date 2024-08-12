@@ -1,3 +1,6 @@
-Matrix Multiplication
+Matrix Chain Multiplication
 
-![22Screenshot from 2024-08-02 11-42-05 (1)](https://github.com/user-attachments/assets/b1b1160d-d1b6-40ed-9fa8-8e73e83c86e8)
+![output](https://github.com/user-attachments/assets/060611b0-40b3-4df8-ac03-6c81b1d0f120)
+
+
+
